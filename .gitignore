@@ -1,0 +1,12 @@
+typings
+.idea
+node_modules
+jspm_packages
+bower_components
+
+.vs
+**/*.sou
+**/*.user
+bin
+obj
+packages

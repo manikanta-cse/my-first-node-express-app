@@ -1,0 +1,23 @@
+{
+  "name": "building-webapps-with-node-express",
+  "description": "demo proj",
+  "main": "app.js",
+  "authors": [
+    "Manikanta Kattamuri"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
